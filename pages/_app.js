@@ -7,7 +7,7 @@ import style from './_app.module.css'
 export default function App({ Component, pageProps }) {
   return <>
     <Head>
-	   <script type="module" data-currency="USD" data-id="RRdd09EfbB" src="https://api.jamcart.io/v1/jamcart.js"></script>
+	   <script type="module" data-currency="USD" data-id="BfQAVezJVq" src="https://api.jamcart.io/v1/jamcart.js"></script>
       <link rel="icon" href="/favicon.ico" />
       <meta name="description" content="No Name Tech - Custom Mousepads and Controllers." />
     </Head>
