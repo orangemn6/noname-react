@@ -15,7 +15,7 @@ export default function App({ Component, pageProps }) {
     <nav className={ style.nav }>
       <h1 className={ style.logo }>
         <Link href="/">
-          <a>No Name Tech {/* Our Demo Website's Title */}</a>
+          <a>NONAME Tech {/* Our Demo Website's Title */}</a>
         </Link>
       </h1>
       <jamcart-open class={ style.open } />
